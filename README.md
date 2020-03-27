@@ -2,10 +2,6 @@
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install dependecies, OpenGL extensions for GTK+ , hdf5 and vtk:
-
 ```sh
 $  sudo pacman -S gtkglext hdf5 vtk
 ```
