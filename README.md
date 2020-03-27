@@ -57,4 +57,5 @@ $ make program-name
 ```
 To run:
 ```sh
-$ ./progr
+$ ./program-name
+```
