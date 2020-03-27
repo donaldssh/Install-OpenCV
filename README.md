@@ -2,6 +2,8 @@
 
 ### Installation
 
+Install dependecies, OpenGL extensions for GTK+ , hdf5 and vtk:
+
 ```sh
 $  sudo pacman -S gtkglext hdf5 vtk
 ```
